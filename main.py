@@ -12,6 +12,7 @@ def main():
 
         askQuestion(question)
 
+
 def askQuestion(question_line):
 
     question = question_line[0]
